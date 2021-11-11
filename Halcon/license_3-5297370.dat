@@ -1,0 +1,12 @@
+##################################################################################
+# LG Electronics Inc.  (Id: CM:3-5297370)                                        #
+# HALCON 20.11 Steady SDK, Free U                                                #
+##################################################################################
+LICENSE MVTec_HDevelop 20.11 MODULES=fc123bdom ID=CM:3-5297370 SESSIONS=1 \
+        SIGNATURE="93BC DFDF 8BEF 5061 B17E 9AFD 3548 D5D4 E77A 156B 28F5 \
+        6D8D 231C 20D3 AA7D 6A53 EB3C 36BF 0F3D A42D C299 1330 5262 C393 DBA4 \
+        FCDF F5B1 F69F D089 8C83 91AF 2D07"
+LICENSE MVTec_HALCON 20.11 MODULES=fc123bdom ID=CM:3-5297370 SESSIONS=1 \
+        SIGNATURE="5912 DC46 BAF7 2043 E833 74C1 6587 255E D16B 7C8F E87E \
+        0DE6 8FA9 3B3A 2E75 9BD2 381D C798 C675 7FD9 1CE0 154F B81F 4574 DCAB \
+        0B8A 8448 DCD8 9A7B 11C4 8AF7 E60B"
